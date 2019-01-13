@@ -14,6 +14,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
  * 
  * @author Manish Kumar
  * @since Jul 3, 2018
+ * test
  */
 @SpringBootApplication
 @EnableJpaRepositories(basePackages = "com.infogain.app.repository")
