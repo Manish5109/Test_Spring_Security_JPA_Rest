@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Test_spring_security_rest_jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Manish
+Implementation-Vendor-Id: com.infogain.test
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/Test_Spring_
+ Security_JPA_Rest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
